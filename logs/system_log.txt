@@ -1,0 +1,438 @@
+[2026-01-11 11:39:24] INFO: Config file not found. Using default values.
+[2026-01-11 11:39:24] INFO: Configuration template created at config/dermappoint.properties
+[2026-01-11 11:39:24] INFO: MySQL JDBC Driver loaded
+[2026-01-11 11:39:24] INFO: Database connected successfully
+[2026-01-11 11:39:24] INFO: Database schema initialized
+[2026-01-11 11:39:24] INFO: Sample data inserted
+[2026-01-11 11:39:25] INFO: Database connected successfully
+[2026-01-11 11:39:26] INFO: DermAppoint system started
+[2026-01-11 11:42:01] INFO: Database connection closed
+[2026-01-11 11:42:01] INFO: Application shutdown completed
+[2026-01-11 11:44:39] INFO: Configuration loaded successfully from properties file
+[2026-01-11 11:44:39] INFO: Configuration template created at config/dermappoint.properties
+[2026-01-11 11:44:39] INFO: MySQL JDBC Driver loaded
+[2026-01-11 11:44:39] INFO: Database connected successfully
+[2026-01-11 11:44:39] INFO: Database schema initialized
+[2026-01-11 11:44:39] INFO: Sample data inserted
+[2026-01-11 11:44:40] INFO: Database connected successfully
+[2026-01-11 11:44:40] INFO: DermAppoint system started
+[2026-01-11 11:44:50] INFO: Database connection closed
+[2026-01-11 11:44:50] INFO: Application shutdown completed
+[2026-01-11 11:56:44] INFO: Configuration loaded successfully from properties file
+[2026-01-11 11:56:44] INFO: Configuration template created at config/dermappoint.properties
+[2026-01-11 11:56:44] INFO: MySQL JDBC Driver loaded
+[2026-01-11 11:56:45] INFO: Database connected successfully
+[2026-01-11 11:56:45] INFO: Database schema initialized
+[2026-01-11 11:56:45] INFO: Sample data inserted
+[2026-01-11 11:56:45] INFO: Database connected successfully
+[2026-01-11 11:56:46] INFO: DermAppoint system started
+[2026-01-11 11:56:52] INFO: Database connection closed
+[2026-01-11 11:56:52] INFO: Application shutdown completed
+[2026-01-11 11:57:01] INFO: Configuration loaded successfully from properties file
+[2026-01-11 11:57:01] INFO: Configuration template created at config/dermappoint.properties
+[2026-01-11 11:57:01] INFO: MySQL JDBC Driver loaded
+[2026-01-11 11:57:01] INFO: Database connected successfully
+[2026-01-11 11:57:01] INFO: Database schema initialized
+[2026-01-11 11:57:01] INFO: Sample data inserted
+[2026-01-11 11:57:02] INFO: Database connected successfully
+[2026-01-11 11:57:02] INFO: DermAppoint system started
+[2026-01-11 11:58:43] INFO: Database connection closed
+[2026-01-11 11:58:43] INFO: Application shutdown completed
+[2026-01-11 11:59:20] INFO: Configuration loaded successfully from properties file
+[2026-01-11 11:59:20] INFO: Configuration template created at config/dermappoint.properties
+[2026-01-11 11:59:20] INFO: MySQL JDBC Driver loaded
+[2026-01-11 11:59:20] INFO: Database connected successfully
+[2026-01-11 11:59:20] INFO: Database schema initialized
+[2026-01-11 11:59:20] INFO: Sample data inserted
+[2026-01-11 11:59:21] INFO: Database connected successfully
+[2026-01-11 11:59:21] INFO: DermAppoint system started
+[2026-01-11 12:00:34] INFO: Database connection closed
+[2026-01-11 12:00:34] INFO: Application shutdown completed
+[2026-01-11 12:02:18] INFO: Configuration loaded successfully from properties file
+[2026-01-11 12:02:18] INFO: Configuration template created at config/dermappoint.properties
+[2026-01-11 12:02:18] INFO: MySQL JDBC Driver loaded
+[2026-01-11 12:02:19] INFO: Database connected successfully
+[2026-01-11 12:02:19] INFO: Database schema initialized
+[2026-01-11 12:02:19] INFO: Sample data inserted
+[2026-01-11 12:02:19] INFO: Database connected successfully
+[2026-01-11 12:02:20] INFO: DermAppoint system started
+[2026-01-11 12:02:22] INFO: Database connection closed
+[2026-01-11 12:02:22] INFO: Application shutdown completed
+[2026-01-11 12:09:12] INFO: Configuration loaded successfully from properties file
+[2026-01-11 12:09:12] INFO: Configuration template created at config/dermappoint.properties
+[2026-01-11 12:09:12] INFO: MySQL JDBC Driver loaded
+[2026-01-11 12:09:13] INFO: Database connected successfully
+[2026-01-11 12:09:13] INFO: Database schema initialized
+[2026-01-11 12:09:13] INFO: Sample data inserted
+[2026-01-11 12:09:13] INFO: Database connected successfully
+[2026-01-11 12:09:14] INFO: DermAppoint system started
+[2026-01-11 12:09:16] INFO: Database connection closed
+[2026-01-11 12:09:16] INFO: Application shutdown completed
+[2026-01-12 08:45:12] INFO: Configuration loaded successfully from properties file
+[2026-01-12 08:45:12] INFO: Configuration template created at config/dermappoint.properties
+[2026-01-12 08:45:12] INFO: MySQL JDBC Driver loaded
+[2026-01-12 08:45:13] ERROR: ERROR: Database connection failed - Exception: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+[2026-01-12 08:45:13] ERROR: ERROR: Failed to initialize database - Exception: Cannot connect to database
+[2026-01-12 08:45:14] ERROR: ERROR: Database connection failed - Exception: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+[2026-01-12 08:46:05] INFO: Configuration loaded successfully from properties file
+[2026-01-12 08:46:05] INFO: Configuration template created at config/dermappoint.properties
+[2026-01-12 08:46:05] INFO: MySQL JDBC Driver loaded
+[2026-01-12 08:46:05] ERROR: ERROR: Database connection failed - Exception: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+[2026-01-12 08:46:05] ERROR: ERROR: Failed to initialize database - Exception: Cannot connect to database
+[2026-01-12 08:46:06] ERROR: ERROR: Database connection failed - Exception: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+[2026-01-12 14:06:28] INFO: Configuration loaded successfully from properties file
+[2026-01-12 14:06:28] INFO: Configuration template created at config/dermappoint.properties
+[2026-01-12 14:06:28] INFO: MySQL JDBC Driver loaded
+[2026-01-12 14:06:28] ERROR: ERROR: Database connection failed - Exception: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+[2026-01-12 14:06:28] ERROR: ERROR: Failed to initialize database - Exception: Cannot connect to database
+[2026-01-12 14:06:31] ERROR: ERROR: Database connection failed - Exception: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+[2026-01-12 14:06:48] INFO: Configuration loaded successfully from properties file
+[2026-01-12 14:06:48] INFO: Configuration template created at config/dermappoint.properties
+[2026-01-12 14:06:48] INFO: MySQL JDBC Driver loaded
+[2026-01-12 14:06:48] INFO: Database connected successfully
+[2026-01-12 14:06:48] INFO: Database schema initialized
+[2026-01-12 14:06:48] INFO: Sample data inserted
+[2026-01-12 14:06:49] INFO: Database connected successfully
+[2026-01-12 14:06:50] INFO: DermAppoint system started
+[2026-01-12 14:07:21] INFO: Database connection closed
+[2026-01-12 14:07:21] INFO: Application shutdown completed
+[2026-01-12 14:10:41] INFO: Configuration loaded successfully from properties file
+[2026-01-12 14:10:41] INFO: Configuration template created at config/dermappoint.properties
+[2026-01-12 14:10:41] INFO: MySQL JDBC Driver loaded
+[2026-01-12 14:10:42] INFO: Database connected successfully
+[2026-01-12 14:10:42] INFO: Database schema initialized
+[2026-01-12 14:10:42] INFO: Sample data inserted
+[2026-01-12 14:10:43] INFO: Database connected successfully
+[2026-01-12 14:10:43] INFO: DermAppoint system started
+[2026-01-12 14:10:49] INFO: Database connection closed
+[2026-01-12 14:10:49] INFO: Application shutdown completed
+[2026-01-12 14:10:56] INFO: Configuration loaded successfully from properties file
+[2026-01-12 14:10:56] INFO: Configuration template created at config/dermappoint.properties
+[2026-01-12 14:10:56] INFO: MySQL JDBC Driver loaded
+[2026-01-12 14:10:56] INFO: Database connected successfully
+[2026-01-12 14:10:56] INFO: Database schema initialized
+[2026-01-12 14:10:56] INFO: Sample data inserted
+[2026-01-12 14:10:57] INFO: Database connected successfully
+[2026-01-12 14:10:57] INFO: DermAppoint system started
+[2026-01-12 14:12:09] INFO: Database connection closed
+[2026-01-12 14:12:09] INFO: Application shutdown completed
+[2026-01-12 14:12:38] INFO: Configuration loaded successfully from properties file
+[2026-01-12 14:12:38] INFO: Configuration template created at config/dermappoint.properties
+[2026-01-12 14:12:38] INFO: MySQL JDBC Driver loaded
+[2026-01-12 14:12:38] INFO: Database connected successfully
+[2026-01-12 14:12:38] INFO: Database schema initialized
+[2026-01-12 14:12:38] INFO: Sample data inserted
+[2026-01-12 14:12:39] INFO: Database connected successfully
+[2026-01-12 14:12:40] INFO: DermAppoint system started
+[2026-01-12 14:15:38] INFO: Database connection closed
+[2026-01-12 14:15:38] INFO: Application shutdown completed
+[2026-01-12 14:17:36] INFO: Configuration loaded successfully from properties file
+[2026-01-12 14:17:36] INFO: Configuration template created at config/dermappoint.properties
+[2026-01-12 14:17:36] INFO: MySQL JDBC Driver loaded
+[2026-01-12 14:17:36] INFO: Database connected successfully
+[2026-01-12 14:17:36] INFO: Database schema initialized
+[2026-01-12 14:17:36] INFO: Sample data inserted
+[2026-01-12 14:17:37] INFO: Database connected successfully
+[2026-01-12 14:17:37] INFO: DermAppoint system started
+[2026-01-12 14:19:10] INFO: Database connection closed
+[2026-01-12 14:19:10] INFO: Application shutdown completed
+[2026-01-12 14:20:39] INFO: Configuration loaded successfully from properties file
+[2026-01-12 14:20:39] INFO: Configuration template created at config/dermappoint.properties
+[2026-01-12 14:20:39] INFO: MySQL JDBC Driver loaded
+[2026-01-12 14:20:39] INFO: Database connected successfully
+[2026-01-12 14:20:39] INFO: Database schema initialized
+[2026-01-12 14:20:39] INFO: Sample data inserted
+[2026-01-12 14:20:40] INFO: Database connected successfully
+[2026-01-12 14:20:41] INFO: DermAppoint system started
+[2026-01-12 14:21:47] INFO: Database connection closed
+[2026-01-12 14:21:47] INFO: Application shutdown completed
+[2026-01-12 14:22:15] INFO: Configuration loaded successfully from properties file
+[2026-01-12 14:22:15] INFO: Configuration template created at config/dermappoint.properties
+[2026-01-12 14:22:15] INFO: MySQL JDBC Driver loaded
+[2026-01-12 14:22:15] INFO: Database connected successfully
+[2026-01-12 14:22:15] INFO: Database schema initialized
+[2026-01-12 14:22:15] INFO: Sample data inserted
+[2026-01-12 14:22:16] INFO: Database connected successfully
+[2026-01-12 14:22:17] INFO: DermAppoint system started
+[2026-01-12 14:38:47] INFO: Database connection closed
+[2026-01-12 14:38:47] INFO: Application shutdown completed
+[2026-01-12 14:51:17] INFO: Configuration loaded successfully from properties file
+[2026-01-12 14:51:17] INFO: Configuration template created at config/dermappoint.properties
+[2026-01-12 14:51:17] INFO: MySQL JDBC Driver loaded
+[2026-01-12 14:51:18] INFO: Database connected successfully
+[2026-01-12 14:51:18] INFO: Database schema initialized
+[2026-01-12 14:51:18] INFO: Sample data inserted
+[2026-01-12 14:51:18] INFO: Database connected successfully
+[2026-01-12 14:51:19] INFO: DermAppoint system started
+[2026-01-12 14:52:12] INFO: Database connected successfully
+[2026-01-12 14:52:12] INFO: Database connected successfully
+[2026-01-12 14:52:13] INFO: Database connected successfully
+[2026-01-12 14:52:13] INFO: Database connected successfully
+[2026-01-12 14:52:27] INFO: Application shutdown completed
+[2026-01-12 14:52:57] INFO: Configuration loaded successfully from properties file
+[2026-01-12 14:52:57] INFO: Configuration template created at config/dermappoint.properties
+[2026-01-12 14:52:57] INFO: MySQL JDBC Driver loaded
+[2026-01-12 14:52:57] INFO: Database connected successfully
+[2026-01-12 14:52:57] INFO: Database schema initialized
+[2026-01-12 14:52:57] INFO: Sample data inserted
+[2026-01-12 14:52:58] INFO: Database connected successfully
+[2026-01-12 14:52:59] INFO: DermAppoint system started
+[2026-01-12 14:53:39] INFO: Database connection closed
+[2026-01-12 14:53:39] INFO: Application shutdown completed
+[2026-01-12 14:54:33] INFO: Configuration loaded successfully from properties file
+[2026-01-12 14:54:33] INFO: Configuration template created at config/dermappoint.properties
+[2026-01-12 14:54:33] INFO: MySQL JDBC Driver loaded
+[2026-01-12 14:54:34] INFO: Database connected successfully
+[2026-01-12 14:54:34] INFO: Database schema initialized
+[2026-01-12 14:54:34] INFO: Sample data inserted
+[2026-01-12 14:54:35] INFO: Database connected successfully
+[2026-01-12 14:54:35] INFO: DermAppoint system started
+[2026-01-12 15:00:14] INFO: Database connection closed
+[2026-01-12 15:00:14] INFO: Application shutdown completed
+[2026-01-12 15:00:18] INFO: Configuration loaded successfully from properties file
+[2026-01-12 15:00:18] INFO: Configuration template created at config/dermappoint.properties
+[2026-01-12 15:00:18] INFO: MySQL JDBC Driver loaded
+[2026-01-12 15:00:18] INFO: Database connected successfully
+[2026-01-12 15:00:18] INFO: Database schema initialized
+[2026-01-12 15:00:18] INFO: Sample data inserted
+[2026-01-12 15:00:19] INFO: Database connected successfully
+[2026-01-12 15:00:20] INFO: DermAppoint system started
+[2026-01-12 15:00:38] INFO: Database connection closed
+[2026-01-12 15:00:38] INFO: Application shutdown completed
+[2026-01-12 15:03:21] INFO: Configuration loaded successfully from properties file
+[2026-01-12 15:03:21] INFO: Configuration template created at config/dermappoint.properties
+[2026-01-12 15:03:21] INFO: MySQL JDBC Driver loaded
+[2026-01-12 15:03:21] INFO: Database connected successfully
+[2026-01-12 15:03:21] INFO: Database schema initialized
+[2026-01-12 15:03:21] INFO: Sample data inserted
+[2026-01-12 15:03:22] INFO: Database connected successfully
+[2026-01-12 15:03:22] INFO: DermAppoint system started
+[2026-01-12 15:04:10] INFO: Configuration loaded successfully from properties file
+[2026-01-12 15:04:10] INFO: Configuration template created at config/dermappoint.properties
+[2026-01-12 15:04:10] INFO: MySQL JDBC Driver loaded
+[2026-01-12 15:04:11] INFO: Database connected successfully
+[2026-01-12 15:04:11] INFO: Database schema initialized
+[2026-01-12 15:04:11] INFO: Sample data inserted
+[2026-01-12 15:04:12] INFO: Database connected successfully
+[2026-01-12 15:04:12] INFO: DermAppoint system started
+[2026-01-12 15:04:34] INFO: Configuration loaded successfully from properties file
+[2026-01-12 15:04:34] INFO: Configuration template created at config/dermappoint.properties
+[2026-01-12 15:04:34] INFO: MySQL JDBC Driver loaded
+[2026-01-12 15:04:34] INFO: Database connected successfully
+[2026-01-12 15:04:34] INFO: Database schema initialized
+[2026-01-12 15:04:34] INFO: Sample data inserted
+[2026-01-12 15:04:35] INFO: Database connected successfully
+[2026-01-12 15:04:36] INFO: DermAppoint system started
+[2026-01-12 15:08:12] INFO: Database connection closed
+[2026-01-12 15:08:12] INFO: Application shutdown completed
+[2026-01-12 15:08:14] INFO: Database connection closed
+[2026-01-12 15:08:14] INFO: Application shutdown completed
+[2026-01-12 15:08:16] INFO: Database connection closed
+[2026-01-12 15:08:16] INFO: Application shutdown completed
+[2026-01-12 15:10:10] INFO: Configuration loaded successfully from properties file
+[2026-01-12 15:10:10] INFO: Configuration template created at config/dermappoint.properties
+[2026-01-12 15:10:10] INFO: MySQL JDBC Driver loaded
+[2026-01-12 15:10:11] INFO: Database connected successfully
+[2026-01-12 15:10:11] INFO: Database schema initialized
+[2026-01-12 15:10:11] INFO: Sample data inserted
+[2026-01-12 15:10:12] INFO: Database connected successfully
+[2026-01-12 15:10:12] INFO: DermAppoint system started
+[2026-01-12 15:14:09] INFO: Database connection closed
+[2026-01-12 15:14:09] INFO: Application shutdown completed
+[2026-01-12 15:25:26] INFO: Configuration loaded successfully from properties file
+[2026-01-12 15:25:26] INFO: Configuration template created at config/dermappoint.properties
+[2026-01-12 15:25:26] INFO: MySQL JDBC Driver loaded
+[2026-01-12 15:25:26] INFO: Database connected successfully
+[2026-01-12 15:25:27] INFO: Database schema initialized
+[2026-01-12 15:25:27] INFO: Sample data inserted
+[2026-01-12 15:25:27] INFO: Configuration loaded successfully from properties file
+[2026-01-12 15:25:27] INFO: Configuration template created at config/dermappoint.properties
+[2026-01-12 15:25:27] INFO: MySQL JDBC Driver loaded
+[2026-01-12 15:25:27] INFO: Database connected successfully
+[2026-01-12 15:25:27] INFO: Database schema initialized
+[2026-01-12 15:25:27] INFO: Sample data inserted
+[2026-01-12 15:25:27] INFO: Database connected successfully
+[2026-01-12 15:25:28] INFO: Database connected successfully
+[2026-01-12 15:25:28] INFO: DermAppoint system started
+[2026-01-12 15:25:29] INFO: DermAppoint system started
+[2026-01-12 15:30:56] INFO: Database connection closed
+[2026-01-12 15:30:56] INFO: Application shutdown completed
+[2026-01-12 15:30:58] INFO: Database connection closed
+[2026-01-12 15:30:58] INFO: Application shutdown completed
+[2026-01-12 15:33:22] INFO: Configuration loaded successfully from properties file
+[2026-01-12 15:33:22] INFO: Configuration template created at config/dermappoint.properties
+[2026-01-12 15:33:22] INFO: MySQL JDBC Driver loaded
+[2026-01-12 15:33:22] INFO: Database connected successfully
+[2026-01-12 15:33:22] INFO: Database schema initialized
+[2026-01-12 15:33:22] INFO: Sample data inserted
+[2026-01-12 15:33:25] INFO: Database connected successfully
+[2026-01-12 15:33:26] INFO: DermAppoint system started
+[2026-01-12 15:38:04] INFO: Database connection closed
+[2026-01-12 15:38:04] INFO: Application shutdown completed
+[2026-01-12 15:38:09] INFO: Configuration loaded successfully from properties file
+[2026-01-12 15:38:09] INFO: Configuration template created at config/dermappoint.properties
+[2026-01-12 15:38:09] INFO: MySQL JDBC Driver loaded
+[2026-01-12 15:38:09] INFO: Database connected successfully
+[2026-01-12 15:38:10] INFO: Database schema initialized
+[2026-01-12 15:38:10] INFO: Sample data inserted
+[2026-01-12 15:38:10] INFO: Database connected successfully
+[2026-01-12 15:38:11] INFO: DermAppoint system started
+[2026-01-12 15:38:41] INFO: Database connection closed
+[2026-01-12 15:38:41] INFO: Application shutdown completed
+[2026-01-12 15:39:24] INFO: Configuration loaded successfully from properties file
+[2026-01-12 15:39:24] INFO: Configuration template created at config/dermappoint.properties
+[2026-01-12 15:39:24] INFO: MySQL JDBC Driver loaded
+[2026-01-12 15:39:25] INFO: Configuration loaded successfully from properties file
+[2026-01-12 15:39:25] INFO: Configuration template created at config/dermappoint.properties
+[2026-01-12 15:39:25] INFO: MySQL JDBC Driver loaded
+[2026-01-12 15:39:25] INFO: Database connected successfully
+[2026-01-12 15:39:25] INFO: Database schema initialized
+[2026-01-12 15:39:25] INFO: Sample data inserted
+[2026-01-12 15:39:25] INFO: Database connected successfully
+[2026-01-12 15:39:25] INFO: Database schema initialized
+[2026-01-12 15:39:25] INFO: Sample data inserted
+[2026-01-12 15:39:26] INFO: Database connected successfully
+[2026-01-12 15:39:26] INFO: Database connected successfully
+[2026-01-12 15:39:26] INFO: DermAppoint system started
+[2026-01-12 15:39:27] INFO: DermAppoint system started
+[2026-01-12 15:39:29] INFO: Database connection closed
+[2026-01-12 15:39:29] INFO: Application shutdown completed
+[2026-01-12 15:39:56] INFO: Database connection closed
+[2026-01-12 15:39:56] INFO: Application shutdown completed
+[2026-01-12 15:41:54] INFO: Configuration loaded successfully from properties file
+[2026-01-12 15:41:54] INFO: Configuration template created at config/dermappoint.properties
+[2026-01-12 15:41:54] INFO: MySQL JDBC Driver loaded
+[2026-01-12 15:41:55] INFO: Database connected successfully
+[2026-01-12 15:41:55] ERROR: ERROR: DB migration: add users.user_type column failed - Exception: Duplicate column name 'user_type'
+[2026-01-12 15:41:55] INFO: Database schema initialized
+[2026-01-12 15:41:55] INFO: Sample data inserted
+[2026-01-12 15:41:56] INFO: Database connected successfully
+[2026-01-12 15:41:56] INFO: DermAppoint system started
+[2026-01-12 15:42:18] INFO: Database connection closed
+[2026-01-12 15:42:18] INFO: Application shutdown completed
+[2026-01-12 15:46:45] INFO: Configuration loaded successfully from properties file
+[2026-01-12 15:46:45] INFO: Configuration template created at config/dermappoint.properties
+[2026-01-12 15:46:45] INFO: MySQL JDBC Driver loaded
+[2026-01-12 15:46:45] INFO: Database connected successfully
+[2026-01-12 15:46:45] ERROR: ERROR: DB migration: add users.user_type column failed - Exception: Duplicate column name 'user_type'
+[2026-01-12 15:46:45] INFO: Database schema initialized
+[2026-01-12 15:46:45] INFO: Sample data inserted
+[2026-01-12 15:46:46] INFO: Database connected successfully
+[2026-01-12 15:46:47] INFO: DermAppoint system started
+[2026-01-12 15:47:25] INFO: Database connected successfully
+[2026-01-12 15:47:25] INFO: Database connected successfully
+[2026-01-12 15:47:30] INFO: Database connected successfully
+[2026-01-12 15:47:30] INFO: Database connected successfully
+[2026-01-12 15:47:30] INFO: Database connected successfully
+[2026-01-12 15:47:37] INFO: Application shutdown completed
+[2026-01-12 15:49:17] INFO: Configuration loaded successfully from properties file
+[2026-01-12 15:49:17] INFO: Configuration template created at config/dermappoint.properties
+[2026-01-12 15:49:17] ERROR: ERROR: MySQL JDBC Driver not found - Exception: com.mysql.cj.jdbc.Driver
+[2026-01-12 15:49:17] ERROR: ERROR: Database connection failed - Exception: No suitable driver found for jdbc:mysql://localhost:3306
+[2026-01-12 15:49:17] ERROR: ERROR: Failed to initialize database - Exception: Cannot connect to database
+[2026-01-12 15:49:18] ERROR: ERROR: Database connection failed - Exception: No suitable driver found for jdbc:mysql://localhost:3306
+[2026-01-12 15:56:41] INFO: Configuration loaded successfully from properties file
+[2026-01-12 15:56:41] INFO: Configuration template created at config/dermappoint.properties
+[2026-01-12 15:56:41] INFO: MySQL JDBC Driver loaded
+[2026-01-12 15:56:42] INFO: Database connected successfully
+[2026-01-12 15:56:42] ERROR: ERROR: DB migration: add users.user_type column failed - Exception: Duplicate column name 'user_type'
+[2026-01-12 15:56:42] INFO: Database schema initialized
+[2026-01-12 15:56:42] INFO: Sample data inserted
+[2026-01-12 15:56:43] INFO: Database connected successfully
+[2026-01-12 15:56:44] INFO: DermAppoint system started
+[2026-01-12 15:57:17] INFO: Database connection closed
+[2026-01-12 15:57:17] INFO: Application shutdown completed
+[2026-01-12 15:57:22] INFO: Configuration loaded successfully from properties file
+[2026-01-12 15:57:22] INFO: Configuration template created at config/dermappoint.properties
+[2026-01-12 15:57:22] ERROR: ERROR: MySQL JDBC Driver not found - Exception: com.mysql.cj.jdbc.Driver
+[2026-01-12 15:57:22] ERROR: ERROR: Database connection failed - Exception: No suitable driver found for jdbc:mysql://localhost:3306
+[2026-01-12 15:57:22] ERROR: ERROR: Failed to initialize database - Exception: Cannot connect to database
+[2026-01-12 15:57:23] ERROR: ERROR: Database connection failed - Exception: No suitable driver found for jdbc:mysql://localhost:3306
+[2026-01-12 15:59:05] INFO: Configuration loaded successfully from properties file
+[2026-01-12 15:59:05] INFO: Configuration template created at config/dermappoint.properties
+[2026-01-12 15:59:05] INFO: MySQL JDBC Driver loaded
+[2026-01-12 15:59:05] INFO: Database connected successfully
+[2026-01-12 15:59:05] ERROR: ERROR: DB migration: add users.user_type column failed - Exception: Duplicate column name 'user_type'
+[2026-01-12 15:59:05] INFO: Database schema initialized
+[2026-01-12 15:59:05] INFO: Sample data inserted
+[2026-01-12 15:59:06] INFO: Database connected successfully
+[2026-01-12 15:59:07] INFO: DermAppoint system started
+[2026-01-12 16:01:07] INFO: Configuration loaded successfully from properties file
+[2026-01-12 16:01:07] INFO: Configuration template created at config/dermappoint.properties
+[2026-01-12 16:01:07] ERROR: ERROR: MySQL JDBC Driver not found - Exception: com.mysql.cj.jdbc.Driver
+[2026-01-12 16:01:07] ERROR: ERROR: Database connection failed - Exception: No suitable driver found for jdbc:mysql://localhost:3306
+[2026-01-12 16:01:07] ERROR: ERROR: Failed to initialize database - Exception: Cannot connect to database
+[2026-01-12 16:01:09] ERROR: ERROR: Database connection failed - Exception: No suitable driver found for jdbc:mysql://localhost:3306
+[2026-01-12 16:03:55] INFO: Configuration loaded successfully from properties file
+[2026-01-12 16:03:55] INFO: Configuration template created at config/dermappoint.properties
+[2026-01-12 16:03:55] INFO: MySQL JDBC Driver loaded
+[2026-01-12 16:03:55] INFO: Database connected successfully
+[2026-01-12 16:03:55] ERROR: ERROR: DB migration: add users.user_type column failed - Exception: Duplicate column name 'user_type'
+[2026-01-12 16:03:55] INFO: Database schema initialized
+[2026-01-12 16:03:55] INFO: Sample data inserted
+[2026-01-12 16:03:57] INFO: Database connected successfully
+[2026-01-12 16:03:57] INFO: DermAppoint system started
+[2026-01-12 16:29:26] INFO: Configuration loaded successfully from properties file
+[2026-01-12 16:29:27] INFO: Configuration template created at config/dermappoint.properties
+[2026-01-12 16:30:26] INFO: Configuration loaded successfully from properties file
+[2026-01-12 16:30:26] INFO: Configuration template created at config/dermappoint.properties
+[2026-01-12 16:30:26] INFO: MySQL JDBC Driver loaded
+[2026-01-12 16:30:26] INFO: Database connected successfully
+[2026-01-12 16:30:26] ERROR: ERROR: DB migration: add users.user_type column failed - Exception: Duplicate column name 'user_type'
+[2026-01-12 16:30:26] INFO: Database schema initialized
+[2026-01-12 16:30:26] INFO: Sample data inserted
+[2026-01-12 16:30:29] INFO: Database connected successfully
+[2026-01-12 16:30:30] INFO: DermAppoint system started
+[2026-01-12 17:29:12] INFO: Database connected successfully
+[2026-01-12 17:29:12] INFO: Database connected successfully
+[2026-01-12 17:29:13] INFO: Database connected successfully
+[2026-01-12 17:29:14] INFO: Database connected successfully
+[2026-01-12 17:29:48] INFO: Database connected successfully
+[2026-01-12 17:29:48] INFO: Database connected successfully
+[2026-01-12 17:29:48] INFO: Database connected successfully
+[2026-01-12 17:29:48] INFO: Database connected successfully
+[2026-01-12 17:29:48] INFO: Database connected successfully
+[2026-01-12 17:29:51] INFO: Database connected successfully
+[2026-01-12 17:29:51] INFO: Database connected successfully
+[2026-01-12 17:29:57] INFO: Database connected successfully
+[2026-01-12 17:29:57] INFO: Database connected successfully
+[2026-01-12 17:29:57] INFO: Database connected successfully
+[2026-01-12 17:29:57] INFO: Database connected successfully
+[2026-01-12 17:29:57] INFO: Database connected successfully
+[2026-01-12 17:29:57] INFO: Database connected successfully
+[2026-01-12 17:29:57] INFO: Database connected successfully
+[2026-01-12 17:29:57] INFO: Database connected successfully
+[2026-01-12 17:29:57] INFO: Database connected successfully
+[2026-01-12 17:29:57] INFO: Database connected successfully
+[2026-01-12 17:30:00] INFO: Database connected successfully
+[2026-01-12 17:30:12] INFO: Database connected successfully
+[2026-01-12 17:30:12] INFO: Database connected successfully
+[2026-01-12 17:30:12] INFO: Database connected successfully
+[2026-01-12 17:31:04] INFO: Database connected successfully
+[2026-01-12 17:31:11] INFO: Database connected successfully
+[2026-01-12 17:31:11] INFO: Database connected successfully
+[2026-01-12 17:31:11] INFO: Database connected successfully
+[2026-01-12 17:31:16] INFO: Database connected successfully
+[2026-01-12 17:35:02] INFO: Configuration loaded successfully from properties file
+[2026-01-12 17:35:02] INFO: Configuration template created at config/dermappoint.properties
+[2026-01-12 17:35:02] INFO: MySQL JDBC Driver loaded
+[2026-01-12 17:35:03] INFO: Database connected successfully
+[2026-01-12 17:35:03] ERROR: ERROR: DB migration: add users.user_type column failed - Exception: Duplicate column name 'user_type'
+[2026-01-12 17:35:03] INFO: Database schema initialized
+[2026-01-12 17:35:03] INFO: Sample data inserted
+[2026-01-12 17:35:05] INFO: Database connected successfully
+[2026-01-12 17:35:06] INFO: DermAppoint system started
+[2026-01-12 17:35:13] INFO: Database connection closed
+[2026-01-12 17:35:13] INFO: Application shutdown completed
